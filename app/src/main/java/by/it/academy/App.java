@@ -12,6 +12,10 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
+        printValue();
+    }
+
+    private static void printValue() {
         System.out.println(a+b);
 
         System.out.println(a*b);
