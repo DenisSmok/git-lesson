@@ -17,8 +17,9 @@ public class App {
 
     private static void printValue() {
         System.out.println(a+b);
-
         System.out.println(a*b);
+        System.out.println(a/b);
+
     }
 
 }
